@@ -1,0 +1,6 @@
+{
+  "name": "Sokolo Tech Microfinance Portal",
+  "description": "Enterprise microfinance branch management, client onboarding, loan workflow approval, expense management, and bulk messaging platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
